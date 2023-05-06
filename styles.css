@@ -1,1 +1,18 @@
 /*  your css code here. If applicable */
+div{
+	background-color:lightblue;
+	border: 2px solid black;
+	color:purple;
+	weight:bold;
+	display: flex;
+    justify-content: center;
+	height: 200px;
+	width:50%;
+	text-algin:center;
+
+}
+
+body{
+	display: flex;
+    justify-content: center;
+}
