@@ -6,7 +6,7 @@ div{
 	weight:bold;
 	display: flex;
     justify-content: center;
-	height: 200px;
+	height: auto;
 	width:50%;
 	text-algin:center;
 
